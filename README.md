@@ -1,8 +1,6 @@
-! Project Management App 
+# Project Management App 
 
-# With Ruby on Rails
-
-### What are we building? Projekt
+### With Ruby on Rails
 
 The goal of the application is to be a home for any amount of projects. A project lives within a team and can have as many users as necessary. A user can only belong to one team at a time . Ultimately, we'd want to extend this to allow a single user to belong to multiple teams.
 
